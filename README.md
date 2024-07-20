@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MistyDragon7)](https://github.com/MistyDragon7/github-readme-stats)
+[![Divyanshu's GitHub stats](https://github-readme-stats-omega-ashy-72.vercel.app/api?username=MistyDragon7&show_icons=true&theme=radical)](https://github.com/MistyDragon7/github-readme-stats)
 <!--
 **MistyDragon7/MistyDragon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
